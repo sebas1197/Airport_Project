@@ -1,16 +1,6 @@
 # Sistema para la gestión de aeropuertos públicos y privados.
 
-
-**Categoría: ** Aplicaciones de escritorio.
-
-**Tecnologías utilizadas: **Java SE.
-
-**Cliente: ** Personal
-
-**Fecha: ** Enero - 2020.
-
-**Descripción: ** El sistema tiene las siguientes opciones de menú:
-
+_El sistema tiene las siguientes opciones de menú:_
 
 - Consultar los aeropuertos gestionados, indicando separadamente los aeropuertos públicos y los privados. Para cada uno de ellos muestra su nombre, ciudad y país al que pertenece.
 
@@ -22,7 +12,29 @@
 
 - Mostrar todos los posibles vuelos que parten de una ciudad origen a otra ciudad destino y visualizar su precio.
 
+## Comenzando 🚀
 
-<img src="#" width="50%"></img> 
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-**Autor: ** Sebastián Landázuri G.
+Mira **Despliegue** para conocer como ejecutar el proyecto.
+
+
+### Pre-requisitos 📋
+
+- Java SE jDK 8.
+
+## Despliegue 📦
+
+_Ingresa a la ruta del proyecto mediante un terminal y ejecuta lo siguiente_
+```
+java -jar Airport.jar
+```
+
+## Construido con 🛠️
+
+* [Java SE jDK8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - Lenguaje de progrmación
+* [Netbeans](https://netbeans.apache.org/download/index.html) - IDE
+
+## Autores ✒️
+
+* **Sebastián Landázuri G** - *Trabajo total* - [Portafolio](https://sebas1197.github.io/Sebastian_LG/)
