@@ -32,7 +32,7 @@ java -jar Airport.jar
 
 ## Construido con 🛠️
 
-* [Java SE jDK8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - Lenguaje de progrmación
+* [Java SE jDK8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - Lenguaje de programación
 * [Netbeans](https://netbeans.apache.org/download/index.html) - IDE
 
 ## Autores ✒️
